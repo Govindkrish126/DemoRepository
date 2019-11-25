@@ -7,3 +7,5 @@ New line added to test the dev branch
 Test line added from new branch Dev and Stagging
 
 Dev and stagging branch added in this document.
+
+Commit to Dev and Stagging branch
